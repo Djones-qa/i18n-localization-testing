@@ -1,0 +1,14 @@
+{
+  "app.brand": "Acme",
+  "app.title": "Управление заказами",
+  "greeting": "Здравствуйте, {name}!",
+  "action.save": "Сохранить изменения",
+  "checkout.total": "Итого: {amount}",
+  "error.network": "Потеряно сетевое соединение. Повторите попытку.",
+  "cart.items": {
+    "one": "{count} товар в корзине",
+    "few": "{count} товара в корзине",
+    "many": "{count} товаров в корзине",
+    "other": "{count} товара в корзине"
+  }
+}

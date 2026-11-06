@@ -1,0 +1,13 @@
+{
+  "app.brand": "Acme",
+  "app.title": "Gestión de pedidos",
+  "greeting": "¡Hola, {name}!",
+  "action.save": "Guardar cambios",
+  "checkout.total": "Total: {amount}",
+  "error.network": "Se perdió la conexión de red. Inténtalo de nuevo.",
+  "cart.items": {
+    "one": "{count} artículo en tu carrito",
+    "many": "{count} de artículos en tu carrito",
+    "other": "{count} artículos en tu carrito"
+  }
+}

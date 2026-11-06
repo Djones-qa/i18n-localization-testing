@@ -1,0 +1,9 @@
+{
+  "app.brand": "Acme",
+  "app.title": "注文管理",
+  "greeting": "こんにちは、{name}さん！",
+  "action.save": "変更を保存",
+  "checkout.total": "合計: {amount}",
+  "error.network": "ネットワーク接続が切断されました。もう一度お試しください。",
+  "cart.items": { "other": "カートに{count}個の商品があります" }
+}

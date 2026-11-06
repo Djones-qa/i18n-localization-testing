@@ -1,0 +1,9 @@
+{
+  "app.brand": "Acme",
+  "app.title": "Bestellverwaltung",
+  "greeting": "Hallo, {name}!",
+  "action.save": "Änderungen speichern",
+  "checkout.total": "Gesamtsumme: {amount}",
+  "error.network": "Netzwerkverbindung unterbrochen. Bitte versuchen Sie es erneut.",
+  "cart.items": { "one": "{count} Artikel in Ihrem Warenkorb", "other": "{count} Artikel in Ihrem Warenkorb" }
+}

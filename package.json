@@ -1,0 +1,19 @@
+{
+  "name": "i18n-localization-testing",
+  "version": "1.0.0",
+  "description": "Internationalization and localization test toolkit: catalog linting, plural rules, formatting, fallback, pseudo-localization, RTL.",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "keywords": ["i18n", "l10n", "localization", "intl", "qa", "typescript"],
+  "author": "Darrius Jones (https://github.com/Djones-qa)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "22.7.4",
+    "typescript": "5.6.2",
+    "vitest": "2.1.2"
+  }
+}
+

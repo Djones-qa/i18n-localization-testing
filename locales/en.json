@@ -1,0 +1,9 @@
+{
+  "app.brand": "Acme",
+  "app.title": "Order Management",
+  "greeting": "Hello, {name}!",
+  "action.save": "Save changes",
+  "checkout.total": "Total: {amount}",
+  "error.network": "Network connection lost. Please try again.",
+  "cart.items": { "one": "{count} item in your cart", "other": "{count} items in your cart" }
+}
